@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AplicanU
-- 👀 I’m interested in Machine Learning and Robotic Process Automation
+- 👋 Hi, I’m Ashish Upadhyay
+- 👀 I’m interested in Responsible AI, Machine Learning and Robotic Process Automation
 - 🌱 I’m currently learning Advanced Python, .Net and Machine Learning
-- 💞️ I’m looking to collaborate on problems related to automation
+- 💞️ I’m looking to collaborate on problems related to automation and AI
 
 <!---
 AplicanU/AplicanU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
